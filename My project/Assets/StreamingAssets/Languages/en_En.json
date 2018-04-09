@@ -1,0 +1,5 @@
+{
+	
+	"menu": [ "Play", "Themes", "Score", "Language","Options","Apply" ],
+  "gameprocess": [ "Resume", "Game over", "Pause" ]
+}
